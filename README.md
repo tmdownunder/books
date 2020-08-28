@@ -16,6 +16,8 @@
 ## Vue
 - **Become a ninja with Vue** - Publisher: Ninja Squad
 - **Vue.js In Action** - Publisher: Manning, Author: Erik Hanchett
+## Angular
+- **Become a ninja with Angular** - Publisher: Ninja Squad
 ## Architecture
 - **NET Microservices Architecture for Containerized NET Applications** - Published: Microsoft
 ## Infrastructure
@@ -24,13 +26,14 @@
 ## Tools
 - **Pro Git** - https://git-scm.com/book/en/v2
 - **Git® Notes for Professionals** - https://books.goalkicker.com/GitBook
-- **Beginning Git and GitHub** - Publisher:Apress, Author: Mariot Tsitoara
-- **GitHub For Dummies** -
+- **Beginning Git and GitHub** - Publisher: Apress, Author: Mariot Tsitoara
+- **GitHub For Dummies** - Publisher: For Dummies, Author: Phil Haack
 - **GitHub Essentials** - Author: Achilleas Pipinellis
 - **Introducing GitHub** 2nd Edition
 - **Building Tools with GitHub**
-- **VS Code** - 
-- **Emmet Cheat Sheet** - 
+- **Visual Studio Code** - Author:  Bruce Johnson
+- **Visual Studio Code - Keyboard shortcuts for Windows**: https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
+- **Emmet Cheat Sheet**: https://docs.emmet.io/cheat-sheet
 ## Science
 - **Fold At Home** - https://foldingathome.org/home
 ## Finance
