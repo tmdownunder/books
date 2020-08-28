@@ -11,10 +11,15 @@
 - **Python for Data Analysis** 2nd Edition 2017 - Publisher: O'Reilly, Author: Wes McKinney (the creator of the Python pandas project)
 - **Python Data Science Handbook (Essential Tools for Working with Data)** 1st Edition 2017 - Publisher: O'Reilly, Author: Jake VanderPlas
 - **Django 3 By Example** - 3rd Edition 2020 - Publisher: O'Reilly, Author: Antonio Mele
+- **Django for APIs: Build web APIs with Python & Django** - Author: William S Vincent
+- **Pandas Cheat Sheet** - 
 ## Vue
 - **Become a ninja with Vue** - Publisher: Ninja Squad
 - **Vue.js In Action** - Publisher: Manning, Author: Erik Hanchett
+## Architecture
+- **NET Microservices Architecture for Containerized NET Applications** - Published: Microsoft
 ## Infrastructure
+- **Docker in Action** 2nd Edition - Author: Jeffrey Nickoloff and Stephen Kuenzli
 - **Kubernetes: Up and Running** - 2nd Edition
 ## Tools
 - **Pro Git** - https://git-scm.com/book/en/v2
@@ -26,6 +31,8 @@
 - **Building Tools with GitHub**
 - **VS Code** - 
 - **Emmet Cheat Sheet** - 
+## Science
+- **Fold At Home** - https://foldingathome.org/home
 ## Finance
 - **The Barefoot Investor** - Author: Scott Pape
 
