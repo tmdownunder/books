@@ -4,7 +4,6 @@
 </div>
 
 ---
-
 ## ASP.NET Core
 - **ASP.NET Core in Action**
 
@@ -53,10 +52,13 @@
 - [Github - Free programming books](https://ebookfoundation.github.io/free-programming-books)
 
 ## Health
-- [Glaucome learning](https://www.glaucoma.org.au/glaucoma-now/e-learning)
+- [Glaucoma learning](https://www.glaucoma.org.au/glaucoma-now/e-learning)
 
 ## Finance
 - **The Barefoot Investor** - Author: Scott Pape
+
+## Miscellaneous
+- [Please Explain](https://omny.fm/shows/please-explain)
 
 ## Science
 - [Fold At Home](https://foldingathome.org/home)
