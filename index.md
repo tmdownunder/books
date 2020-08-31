@@ -53,7 +53,7 @@
 - [Github - Free programming books](https://ebookfoundation.github.io/free-programming-books)
 
 ## Health
-- (Glaucome learning)[https://www.glaucoma.org.au/glaucoma-now/e-learning/]
+- [Glaucome learning](https://www.glaucoma.org.au/glaucoma-now/e-learning)
 
 ## Finance
 - **The Barefoot Investor** - Author: Scott Pape
