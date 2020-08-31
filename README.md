@@ -41,6 +41,7 @@
 - **Building Tools with GitHub**
 - **Visual Studio Code** - Author:  Bruce Johnson
 - [Visual Studio Code - Keyboard shortcuts for Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
+- [GitHub Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 - [Emmet Cheat Sheet](https://docs.emmet.io/cheat-sheet)
 
 ## Science
