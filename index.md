@@ -1,5 +1,6 @@
 <img src="fishtank.jpg" style="width:8em;height:auto" />
 
+---
 # Readings
 
 ## ASP.NET Core
@@ -58,8 +59,8 @@
 ## Science
 - [Fold At Home](https://foldingathome.org/home)
 
-
+---
 ## License
 MIT - see [LICENSE](https://github.com/tmdownunder/readings/blob/master/LICENSE)
 
-<span style='font-size:100px;'>&#128515;</span>
+<span style='font-size:50px;'>&#128515;</span>
