@@ -1,4 +1,4 @@
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+<link rel="shortcut icon" type="image/x-icon" href="fish.svg">
 
 <div style='width:100%;text-align:center;'>
 <img src='fishtank.jpg' style='width:8em;height:auto;' />
