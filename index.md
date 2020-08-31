@@ -38,11 +38,12 @@
 - [Git® Notes for Professionals](https://books.goalkicker.com/GitBook)
 - **Beginning Git and GitHub** - Publisher: Apress, Author: Mariot Tsitoara
 - **GitHub For Dummies** - Publisher: For Dummies, Author: Phil Haack
-- **GitHub Essentials) - Author: Achilleas Pipinellis**
-- **Introducing GitHub) - 2nd Edition
+- **GitHub Essentials** - Author: Achilleas Pipinellis
+- **Introducing GitHub** - 2nd Edition
 - **Building Tools with GitHub**
 - **Visual Studio Code** - Author:  Bruce Johnson
 - [Visual Studio Code - Keyboard shortcuts for Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
+- [GitHub Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 - [Emmet Cheat Sheet](https://docs.emmet.io/cheat-sheet)
 
 ## Science
