@@ -1,4 +1,3 @@
-# Readings
 ## ASP.NET Core
 - **ASP.NET Core in Action** - 
 ## Javascript
