@@ -1,7 +1,9 @@
+<div style='font-size:3em;width:100%;text-align:center;border"1px solid red"'>
 <img src="fishtank.jpg" style="width:8em;height:auto" />
+<p>Readings</p>
+</div>
 
 ---
-# Readings
 
 ## ASP.NET Core
 - **ASP.NET Core in Action**
