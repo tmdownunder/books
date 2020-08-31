@@ -1,4 +1,4 @@
-<img src="fishtank.jpg" />
+<img src="fishtank.jpg" style="width:8em;height:auto" />
 
 ## ASP.NET Core
 - **ASP.NET Core in Action**
