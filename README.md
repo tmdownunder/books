@@ -7,7 +7,7 @@
 - **Node.js in Action**
 
 ## Python
-- [PEP 8 — the Style Guide for Python Code](https://pep8.org/#descriptive-naming-styles) - [Optional Url](https://www.python.org/dev/peps/pep-0008)
+- [PEP 8 - the Style Guide for Python Code](https://pep8.org/#descriptive-naming-styles) - [Other Url](https://www.python.org/dev/peps/pep-0008)
 - [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html#316-naming)
 - [The Hitchhiker's Guide to Python](https://docs.python-guide.org/writing/style)
 - [pycodestyle](https://pypi.org/project/pycodestyle)
