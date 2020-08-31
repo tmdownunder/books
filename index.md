@@ -1,3 +1,5 @@
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+
 <div style='width:100%;text-align:center;'>
 <img src='fishtank.jpg' style='width:8em;height:auto;' />
 <p style='font-size:2em;color:#6495ED'>Readings</p>
