@@ -31,6 +31,12 @@
 ## Architecture
 - **NET Microservices Architecture for Containerized NET Applications** - Published: Microsoft
 
+## Cheat Sheets
+- [Visual Studio Code - Keyboard shortcuts for Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
+- [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
+- [Markdown Cheat Sheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+- [Emmet Cheat Sheet](https://docs.emmet.io/cheat-sheet)
+
 ## Infrastructure
 - **Docker in Action** 2nd Edition - Author: Jeffrey Nickoloff and Stephen Kuenzli
 - **Kubernetes: Up and Running** - 2nd Edition
@@ -43,10 +49,7 @@
 - **GitHub Essentials** - Author: Achilleas Pipinellis
 - **Introducing GitHub** - 2nd Edition
 - **Building Tools with GitHub**
-- **Visual Studio Code** - Author:  Bruce Johnson
-- [Visual Studio Code - Keyboard shortcuts for Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
-- [GitHub Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
-- [Emmet Cheat Sheet](https://docs.emmet.io/cheat-sheet)
+- **Visual Studio Code** - Author: Bruce Johnson
 
 ## Other technical references
 - [Github - Free programming books](https://ebookfoundation.github.io/free-programming-books)
