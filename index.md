@@ -46,8 +46,20 @@
 - [GitHub Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 - [Emmet Cheat Sheet](https://docs.emmet.io/cheat-sheet)
 
-## Science
-- [Fold At Home](https://foldingathome.org/home)
+## Other technical references
+- [Github - Free programming books](https://ebookfoundation.github.io/free-programming-books)
+
+## Health
+- (Glaucome learning)[https://www.glaucoma.org.au/glaucoma-now/e-learning/]
 
 ## Finance
 - **The Barefoot Investor** - Author: Scott Pape
+
+## Science
+- [Fold At Home](https://foldingathome.org/home)
+
+
+## License
+MIT - see [LICENSE](https://github.com/tmdownunder/readings/blob/master/LICENSE)
+
+:smiley:
