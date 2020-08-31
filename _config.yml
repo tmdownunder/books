@@ -1,4 +1,3 @@
 theme: jekyll-theme-minimal
 title: Welcome
-include:
-- README.md
+favicon: fish.svg
