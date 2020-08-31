@@ -62,4 +62,4 @@
 ## License
 MIT - see [LICENSE](https://github.com/tmdownunder/readings/blob/master/LICENSE)
 
-:smiley:
+<span style='font-size:100px;'>&#128515;</span>
