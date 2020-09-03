@@ -1,4 +1,4 @@
-# Readings
+# Readings, Tools, Ideas
 
 ## ASP.NET Core
 - **ASP.NET Core in Action**
@@ -43,6 +43,7 @@
 - [Visual Studio Code - Keyboard shortcuts for Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
 - [GitHub Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 - [Emmet Cheat Sheet](https://docs.emmet.io/cheat-sheet)
+- YAML - [yaml Cheat Sheet](https://yaml.org/refcard.html), [yaml validator](https://onlineyamltools.com/validate-yaml)
 
 ## Science
 - [Fold At Home](https://foldingathome.org/home)
