@@ -2,6 +2,8 @@
 
 ## ASP.NET Core
 - **ASP.NET Core in Action**
+- [Microsoft eShopOnWeb ASP.NET Core Reference Application (.NET Core 3.1 support + 1 eBook)](https://github.com/dotnet-architecture/eShopOnWeb)
+- [Architect Modern Web Applications with ASP.NET Core and Azure](https://docs.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/)
 
 ## Javascript
 - **Node.js in Action**
@@ -26,6 +28,7 @@
 
 ## Architecture
 - **NET Microservices Architecture for Containerized NET Applications** - Published: Microsoft
+- [.NET Microservices Sample Reference Application (.NET Core 3.1 support + 3 eBooks)](https://github.com/dotnet-architecture/eShopOnContainers)
 
 ## Infrastructure
 - **Docker in Action** 2nd Edition - Author: Jeffrey Nickoloff and Stephen Kuenzli
