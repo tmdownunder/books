@@ -2,7 +2,7 @@
 
 ## ASP.NET Core
 - **ASP.NET Core in Action**
-- [Microsoft eShopOnWeb ASP.NET Core Reference Application (.NET Core 3.1 support + 1 eBook)](https://github.com/dotnet-architecture/eShopOnWeb)
+- [Microsoft eShopOnWeb ASP.NET Core Reference Application (.NET Core Core 8.0 support + 1 eBook)](https://github.com/dotnet-architecture/eShopOnWeb)
 - [Architect Modern Web Applications with ASP.NET Core and Azure](https://docs.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/)
 
 ## Javascript
@@ -15,8 +15,10 @@
 - [pycodestyle](https://pypi.org/project/pycodestyle)
 - **Python for Data Analysis** - Edition: 2nd 2017, Publisher: O'Reilly, Author: Wes McKinney (the creator of the Python pandas project)
 - **Python Data Science Handbook** - Essential Tools for Working with Data - Edition: 1st 2017, Publisher: O'Reilly, Author: Jake VanderPlas
-- **Django 3 By Example** - Edition: 3rd 2020, Publisher: O'Reilly, Author: Antonio Mele
+- **Django 5 By Example** - Edition: 2024, Publisher: O'Reilly, Author: Antonio Mele
 - **Django for APIs: Build web APIs with Python & Django** - Author: William S Vincent
+- **Artificial intelligence Programming with Python** - Author: Perry Xiao
+- **Applied Machine Learning and AI for Engineers** - Author: Jeff Prosise
 - [Pandas Cheat Sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
 
 ## Vue
@@ -27,10 +29,11 @@
 - **Become a ninja with Angular** - Publisher: Ninja Squad
 
 ## Architecture
-- **NET Microservices Architecture for Containerized NET Applications** - Published: Microsoft
-- [.NET Microservices Sample Reference Application (.NET Core 3.1 support + 3 eBooks)](https://github.com/dotnet-architecture/eShopOnContainers)
+- [.NET Microservices Architecture for Containerized NET Applications** - Published: Microsoft](https://learn.microsoft.com/en-us/dotnet/architecture/microservices/))
+- [eShop Reference Application (.NET Core 8)](https://github.com/dotnet/eShop)
 
 ## Infrastructure
+- **Learn Docker in a Month of Lunches** - Author: Elton Stoneman
 - **Docker in Action** 2nd Edition - Author: Jeffrey Nickoloff and Stephen Kuenzli
 - **Kubernetes: Up and Running** - 2nd Edition
 
